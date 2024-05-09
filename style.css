@@ -1,0 +1,46 @@
+body{
+   
+    color: aliceblue;
+    background: url(images/sbi.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+
+  .dash{
+    padding-top: 10rem;
+    color: aliceblue;
+    font-weight: 900;
+
+  }
+  label{
+    color: aliceblue;
+  }
+  .admin-button{
+    background-color: #15b4dc;
+    border: 0px;
+    border-radius: 5px;
+    padding-left: 21px;
+    font-size: 20px;
+    color: aliceblue;
+    
+  }
+  .user-button{
+    background-color: #15b4dc;
+    border: 0px;
+    border-radius: 5px;
+    padding-left: 21px;
+    font-size: 20px;
+    color: aliceblue;
+  }
+  .logout{
+    background-color: #15b4dc;
+    border: 0px;
+    border-radius: 5px;
+    padding-left: 21px;
+    font-size: 20px;
+    color: aliceblue;
+  }
+  .table{
+    padding-top:7rem;
+  }
+ 
